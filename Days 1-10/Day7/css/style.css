@@ -1,0 +1,43 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+div {
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 150px;
+    height: 150px;
+    animation: squeeze 5s linear infinite;
+    background-color: yellow;
+    transform: skewY(20deg);
+}
+
+@keyframes squeeze {
+    20% {
+        background-color: red;
+        width: 500px;
+    }
+
+    30% {
+        background-color: black;
+        top: 500px;
+    }
+
+    80% {
+        background-color: hsl(120, 86%, 32%);
+        height: 500px;
+        left: 100%;
+        top: 0;
+        transform: skewX(40deg);
+    }
+
+    100% {
+        top: 0;
+        left: 0;
+        background-color: yellow;
+        transform: skewY(-80deg);
+    }
+}

@@ -1,0 +1,16 @@
+#modal {
+    position: fixed;
+    display: none;
+    width: 300px;
+    background-color: grey;
+    box-shadow: 5px 5px gray;
+    z-index: 999
+}
+
+#modal > button{
+    display: block;
+    border: none;
+    width: 100%;
+    font-size: 20px;
+    padding: 10px;
+}
