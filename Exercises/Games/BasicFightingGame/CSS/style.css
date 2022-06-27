@@ -1,0 +1,50 @@
+* {
+    box-sizing: border-box;
+
+}
+#redContainer {
+position: relative;
+display: inline-block;
+}
+
+#redContainerChild {
+    position: absolute;
+    display: flex;
+    width: 100% ;
+    align-items: center;
+    padding: 20px;
+}
+
+#playerHealth {
+    background-color:green ;
+    height: 30px ;
+    width: 100% ;
+}
+
+#AEH {
+    position: relative;
+    height: 30px ;
+    width: 100% ;
+}
+
+#enemyHealth {
+        background-color:green ;
+        height: 30px;
+  
+}
+
+#BEH {
+    position: absolute;
+    background-color: blue;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+}
+
+#timer {
+    background-color: red;
+    height: 100px;
+    width: 100px;
+    flex-shrink: 0;
+}

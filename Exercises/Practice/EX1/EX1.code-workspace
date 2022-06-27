@@ -1,10 +1,22 @@
 {
 	"folders": [
 		{
-			"path": "."
+			"name": "Day21",
+			"path": "..\\..\\..\\Days 21-30\\Day21"
+		},
+		{
+			"name": "Day22",
+			"path": "..\\..\\..\\Days 21-30\\Day22"
+		},
+		{
+			"path": "..\\Calculator"
+		},
+		{
+			"path": "..\\..\\Games\\BasicFightingGame"
 		}
 	],
 	"settings": {
-		"liveServer.settings.port": 5501
+		"liveServer.settings.port": 5501,
+		"liveServer.settings.multiRootWorkspaceName": "BasicFightingGame"
 	}
 }
