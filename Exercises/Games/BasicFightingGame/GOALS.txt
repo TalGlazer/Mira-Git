@@ -1,6 +1,6 @@
 1. Project Setup ./
-2. Create player and Enemy
-3. Move Characters with Event Listeners
-4. Attacks
+2. Create player and Enemy ./
+3. Move Characters with Event Listeners ./
+4. Attacks ./
 5. Health Bar Interface
 6. Game Timers and Game Over
