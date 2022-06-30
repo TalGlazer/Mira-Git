@@ -2,6 +2,9 @@
 	"folders": [
 		{
 			"path": "..\\..\\Games\\BasicFightingGame"
+		},
+		{
+			"path": "..\\Promises"
 		}
 	],
 	"settings": {

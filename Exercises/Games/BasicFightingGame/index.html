@@ -10,27 +10,43 @@
 </head>
 
 <body>
-    <!-- red container div -->
-    <div id="redContainer">
+    <!-- Red Container Div -->
+    <div id="redContDiv" style="
+    position: relative;
+    display: inline-block;">
 
-        <!-- smaller red container div -->
-        <div id="redContainerChild">
-            <!-- player health -->
-            <div id="playerHealth">
+        <!-- Smaller Red Container Div -->
+        <div id="redContDiv-small" style="
+        position: absolute;
+        display: flex;
+        width: 100%;
+        align-items: center;
+        padding: 20px;">
+<!-- //          \/               -->
+            <!-- player HP -->
+            <div id="playHP" style="
+            background-color: yellow;
+            height: 30px;
+            width: 100%;">
             </div>
-            <!-- timer -->
-            <div id="timer">
+
+            <!-- Timer -->
+            <div id="timer" style="
+            background-color: red;
+            width: 100px;
+            height: 100px;
+            flex-shrink: 0;">
             </div>
-            <!-- enemy health -->
-            <div id="AEH">
-                <div id="enemyHealth"></div>
-                <div id="BEH"></div>
+
+            <!-- enemy HP -->
+            <div id="enemyHP" style="
+            background-color: yellow;
+            height: 30px;
+            width: 100%;">
+<!-- //  ------------------------------ -->
             </div>
-            <div></div>
         </div>
-        <canvas>
-
-        </canvas>
+        <canvas></canvas>
     </div>
     <script src="JS/main.js"></script>
 </body>
