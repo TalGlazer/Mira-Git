@@ -4,11 +4,14 @@
 			"path": "..\\..\\Games\\BasicFightingGame"
 		},
 		{
-			"path": "..\\Promises"
+			"path": "..\\..\\..\\Days 21-30\\day24"
+		},
+		{
+			"path": "..\\EX2"
 		}
 	],
 	"settings": {
 		"liveServer.settings.port": 5501,
-		"liveServer.settings.multiRootWorkspaceName": "Day23"
+		"liveServer.settings.multiRootWorkspaceName": "NukeExample"
 	}
 }

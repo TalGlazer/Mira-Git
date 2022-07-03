@@ -18,5 +18,7 @@
 //         console.log(num1 + num2);
 //         break;
 // }
-const data = Buffer.from(`hello world`);
+
+const data = Buffer.from(`Aa Bb Cc Dd Ee Ff Gg Hh Ii Jj Kk Ll
+Mm Nn Oo Pp Qq Rr Ss Tt Uu Vv Ww Xx Yy Zz`);
 console.log(`data`, data);
