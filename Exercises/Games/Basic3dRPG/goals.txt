@@ -1,0 +1,37 @@
+1. MAP CREATION WITH TILED MAP EDITOR:
+  a. Downloads and Setup.
+   a1: Find assets.
+   a2: Download tiled.
+   a3: import into project.
+
+ b. Tile Layering for Ocean and Landmasses.
+ c. Layering and Placement of Trees.
+ d. Landscape Details.
+ e. Collision and Map Boundaries.
+ f. Foreground Layers.
+ g. Exporting Layers for Project Import.
+
+
+2. PLAYER AND MAP DEVELOPMENT:
+  a. Project Setup.
+  b. Import and render map.
+  c. Player creation.
+  d. Move player through map on keydown.
+  e. player-to-map-boundary Collisions.
+  f. Foreground objects.
+  g. Player movemtent animation.
+
+
+3. BATTLE SEQUENCES:
+  a. Battle activation.
+  b. Transition from map to battle Sequences.
+  c. Draw battleBackground.
+  d. Add battle sprites.
+
+
+  4 -- Things To Add Through `Chris Courses.com --:
+    1 - Conversations with other Characters.
+    2 - Entering Other Buildings.
+    3 - Item Collection and inventory.
+    4 - Healthbars and Healing.
+    5 - Gym battles.
