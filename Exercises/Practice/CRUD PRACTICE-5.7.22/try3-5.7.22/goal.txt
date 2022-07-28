@@ -1,0 +1,10 @@
+goals:
+
+1. Build a c.r.u.d app using CLI.
+2. Shopping app with a cart.
+3. We want to support -4- total operations.
+ 3a : read - Reads the current cart file and displays it on the screen.
+ 3b : create - Adds (creates) a new product to cart.
+ 3c : update - Updates an existing product in cart.
+ 3d : delete - deletes a product from the cart.
+

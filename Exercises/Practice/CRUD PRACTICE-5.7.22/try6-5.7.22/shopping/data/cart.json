@@ -1,0 +1,11 @@
+[
+  { "id": 1, "name": "milk", "price": 10 },
+  { "id": 2, "name": "bread", "price": 100 },
+  { "id": 3, "name": "hotdog", "price": 1000 },
+  { "id": 4, "name": "vodka", "price": 100000 },
+  { "id": 5, "name": "chips", "price": 10000000 },
+  { "id": 6, "name": "bamba", "price": 100000000 },
+  { "id": 7, "name": "mana hama", "price": 10000000000 },
+  { "id": 8, "name": "salmon", "price": 90000000000 },
+  { "id": 9, "name": "sabon", "price": 900000000000 }
+]
