@@ -1,1 +1,0 @@
-[{"id":1,"name":"dubonim","price":100},{"id":2,"name":"bisli","price":100},{"id":3,"name":"bamba","price":1999}]

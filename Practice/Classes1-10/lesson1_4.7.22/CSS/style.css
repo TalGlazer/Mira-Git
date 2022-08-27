@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+}
+header {
+    text-align: center;
+    font-size: large;
+    font-weight: 900;
+}
+#main {
+    text-align: center;
+    background-color: blue;
+}
+
+#img {
+  height: 200px;
+  width: 150px;
+}
+
+#ft {
+    background-color: red;
+}
